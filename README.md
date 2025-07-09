@@ -3,3 +3,5 @@ I made a Hovercraft that can swerve left to right with a servo motor. A brushles
 
 STM32, 1 servo motor and 2 brushless DC motors required.
 individual PIN configuration could be requiered due to different standpoints.
+
+GFS is the main running file
